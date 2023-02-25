@@ -1352,27 +1352,6 @@ a {
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.cid-twknorwKos {
-  padding-top: 3rem;
-  padding-bottom: 10rem;
-  background-color: #ffffff;
-}
-.cid-twknorwKos img {
-  width: 120px;
-  margin: auto;
-}
-.cid-twknorwKos .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-twknorwKos .card {
-    max-width: 12.5%;
-  }
-}
 .cid-twkpfOShMk {
   padding-top: 30px;
   padding-bottom: 30px;
